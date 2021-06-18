@@ -1,2 +1,2 @@
 # PBomb
-Fake Phone Calls
+Fake Phone Calls and Fake SMS
